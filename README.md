@@ -4,8 +4,8 @@
 This is a full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js) designed to manage student team members. The platform provides a user-friendly interface to efficiently view, add or update and manage details about team members for academic or extracurricular projects.
 
 ## 💻 Tech Stack
-- **Frontend**: React, React Router Dom, Axios
-- **Backend**: Node.js, Express, Mongoose, Multer (for file handling), CORS
+- **Frontend**: React
+- **Backend**: Node.js, Express
 - **Database**: MongoDB
 
 ## 📸 Project Screenshots
