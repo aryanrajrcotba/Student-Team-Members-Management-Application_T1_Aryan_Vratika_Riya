@@ -13,7 +13,7 @@ function ViewMembers() {
 
   return (
     <div className="container">
-      <h2 style={{color: '#3b82f6'}}>MEET OUR AMAZING TEAM</h2>
+      <h2 style={{color: '#4908ef'}}>MEET OUR AMAZING TEAM</h2>
       <div className="grid">
         {members.map(member => (
           <div className="card" key={member._id}>
